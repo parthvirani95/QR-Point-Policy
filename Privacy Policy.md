@@ -29,22 +29,7 @@ The subject matter of data protection is personal data. Under Article 4(1) GDPR,
 
 
 >3.1. Automated data collection
-
-When you access our website, your device will automatically transmit data for technical reasons. These data will be stored separately from other data that you may transmit to us:
-
-* date and time of the access,
-
-* Browser type/version,
-
-* operating system used,
-
-* URL of the previously visited website,
-
-* IP address (truncated by one octet)
-
-This data is stored exclusively for technical reasons and will never be assigned to any 
-specific person.
-
+We are not collection any automated information and send to our own servers, we use google analytics and their privacy policy is mentioned below.
 
 >3.2. Support Requests
 
